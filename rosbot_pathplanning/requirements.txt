@@ -1,0 +1,5 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+rclpy>=0.1.0
+sensor-msgs>=0.1.0
+cv-bridge>=0.1.0
